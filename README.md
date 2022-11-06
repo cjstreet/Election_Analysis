@@ -40,10 +40,6 @@ The analysis of the election shows that:
 - Highest voter turnout
     - Denver had the highest voter turnout with 82.8% of the total votes and 306,055 votes.
     
-
 ## Election Audit Summary
     
-
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
-
-The Colorado Board of Elections can use the attached python script to complete any similar election audit. Simply modify the file the name of the csv file to be read and modify the columns numbers that the particular data is collected from (if necessary)
+The Colorado Board of Elections can further use the attached python script to complete any similar election audit. Simply modify the csv file name to be read, modify the columns numbers that the particular data is collected from (if necessary), and optionally rename the output text file. 
