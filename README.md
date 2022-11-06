@@ -17,7 +17,7 @@ The task given by the Colorado Board of Elections was complete the election audi
 - Software: Python 3.9.12, Visual Studio Code, 1.73.0
 
 ## Summary
-The analysis of the election show that:
+The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
     - Charles Casper Stockham
@@ -40,22 +40,10 @@ The analysis of the election show that:
 - Highest voter turnout
     - Denver had the highest voter turnout with 82.8% of the total votes and 306,055 votes.
     
-## Overview
 
-## Summary
+## Election Audit Summary
     
-The voter turnout for each county
-The percentage of votes from each county out of the total count
-The county with the highest turnout
 
-
-The written analysis has the following:
-
-Overview of Election Audit
-The purpose of this election analysis audit is well defined. (3 pt)
-
-Election Audit Results
-There is a bulleted list where each election outcome is addressed. (7 pt)
-
-Election Audit Summary
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
+
+The Colorado Board of Elections can use the attached python script to complete any similar election audit. Simply modify the file the name of the csv file to be read and modify the columns numbers that the particular data is collected from (if necessary)
